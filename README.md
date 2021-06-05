@@ -13,7 +13,7 @@ I'm currently studying at **BITS Pilani**, exploring Transformer Models and thei
 - 🌱 Currently learning **JavaScript** and **RUST**
 - 📚 Currently reading [*Gödel, Escher, Bach: an Eternal Golden Braid*](https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/)
 - 🎵 On loop: *[If I Go, I'm Goin](https://music.youtube.com/watch?v=BKc4I_cK0JU&feature=share)*
-- Currently researching in the domain of **Quantum Computing** and **Brain-Computer Interface**
+- 🧠 Currently researching in the domain of **Quantum Computing** and **Brain-Computer Interface**
 - 💬 Tech that I'd love to discuss **NLP, Product Development, Micro-SaaS and Algorithmic trading**
 - 🧶 I also love - **Football, Linkin Park, Puns and Agatha Christie**
 - 📫 How to reach me **todarwal.devesh@gmail.com**
