@@ -27,7 +27,7 @@ I'm currently studying at [**BITS Pilani**](https://www.bits-pilani.ac.in/), and
 
 ### Frameworks and Other Tools:
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="50" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="50" width="50"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="50" width="50"> <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50"> 
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="50" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="50" width="50"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" height="50" width="50"> <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50"> 
 
 ***
 ## 💡 My Github Stats
