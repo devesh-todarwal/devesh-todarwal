@@ -16,18 +16,18 @@ I'm currently studying at [**BITS Pilani**](https://www.bits-pilani.ac.in/), and
 - 🧠 Currently researching in the domain of **Quantum Computing** and **Brain-Computer Interface**
 - 💬 Tech that I'd love to discuss - **NLP, CV, Product Development, Micro-SaaS and Algorithmic trading**
 - 🧶 I also love - **Football, Linkin Park, Puns and Agatha Christie**
-- 📫 How to reach me **todarwal.devesh@gmail.com**
+- 📫 Have a question? Reach me at **todarwal.devesh@gmail.com**
 ***
 ## 🧰 My Toolbox
 
 ### Languages:
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="" width="50" height="50">  
+[<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50">](https://www.python.org/) [<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50">](https://www.cplusplus.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="" width="50" height="50">](https://in.mathworks.com/products/matlab.html) [<img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="" width="50" height="50">](https://www.rust-lang.org/)
 
 
 ### Frameworks and Other Tools:
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="50" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="50" width="50"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" height="50" width="50"> <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50"> 
+[<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50">](https://aws.amazon.com/) [<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50">](https://www.tensorflow.org/) [<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="50" width="50">](https://www.figma.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="50" width="50">](https://keras.io/) [<img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" height="50" width="50">](https://flask.palletsprojects.com/en/2.0.x/) [<img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" height="50" width="50">](https://qiskit.org/)
 
 ***
 ## 💡 My Github Stats
