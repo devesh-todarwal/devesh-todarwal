@@ -4,7 +4,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/devesh-todarwal?color=blanchedalmond&style=for-the-badge)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/devesh-todarwal?color=lightpink&style=for-the-badge)
 
-## 🐼About Me
+## 🐼 About Me
 I'm currently studying at **BITS Pilani**, exploring Transformer Models and their utility for time-series data alongside occasional stints of Web development!
 <br/>
 
