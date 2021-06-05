@@ -5,7 +5,7 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/devesh-todarwal?color=lightpink&style=for-the-badge)
 
 ## 🐼 About Me
-I'm currently studying at [**BITS Pilani**](https://www.bits-pilani.ac.in/), and I work as a Product Associate with [**Khyaal**](https://khyaal.com/). As of now, I am exploring [**Transformer Models**](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) and their utility for [time-series data](https://arxiv.org/abs/1907.05321) alongside occasional stints of Web development! I also 
+I'm currently studying at [**BITS Pilani**](https://www.bits-pilani.ac.in/), and I work as a Product Associate with [**Khyaal**](https://khyaal.com/). As of now, I am exploring [**Transformer Models**](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) and their utility for [time-series data](https://arxiv.org/pdf/1907.05321.pdf) alongside occasional stints of Web development! I also 
 <br/>
 
 <img align="right" height="150" src="yoda.gif">
