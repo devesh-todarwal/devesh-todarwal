@@ -32,9 +32,5 @@ I'm currently studying at **BITS Pilani**, exploring Transformer Models and thei
 ***
 ## 💡 My Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh-todarwal&show_icons=true&locale=en" alt="devesh-todarwal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh-todarwal&show_icons=true&locale=en&theme=tokyonight" alt="devesh-todarwal" />
 </a>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">  -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devesh-todarwal" alt="devesh-todarwal" /> -->
-<!-- </a> -->
