@@ -5,15 +5,15 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/devesh-todarwal?color=lightpink&style=for-the-badge)
 
 ## 🐼 About Me
-I'm currently studying at [**BITS Pilani**](https://www.bits-pilani.ac.in/), and I work as a Research Intern with [**Samsung Research**](https://research.samsung.com/sri-b). My current work lies in the domain of AI for Automatic Speech Recognition. I am also exploring the working of [**Transformers**](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) and their utility for [time-series data](https://arxiv.org/pdf/1907.05321.pdf) alongside occasional stints of Web development!
+I'm currently working at [**Cobblestone Energy**](https://cobblestoneenergy.com/). I graduated with a dual deegree in Mathematics and Electronics from [**BITS Pilani**](https://www.bits-pilani.ac.in/) in June 2022. My current work as a Commercial Graduate lies in the domain of renewable power forecasting using machine learning as well as statistical methods. In the past I have worked with [**Samsung Research**](https://research.samsung.com/) in the past where my work was focused on building and deploying End to End Automatic Speech Recognition models. I am also exploring the working of [**Transformers**](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) and their utility for [time-series data](https://arxiv.org/pdf/1907.05321.pdf) alongside occasional stints of web development!
 <br/>
 
 <img align="right" height="150" src="yoda.gif">
 
-- 🌱 Currently learning **JavaScript** and **RUST**
+- 🌱 Currently learning **Meteorology (science)** and **RUST (programming language)**
 - 📚 Currently reading [*Gödel, Escher, Bach: an Eternal Golden Braid*](https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/)
-- 🎵 On loop: *[If I Go, I'm Goin](https://music.youtube.com/watch?v=BKc4I_cK0JU&feature=share)*
-- 🧠 Currently researching in the domain of **Automatic Speech Recognition** and **Brain-Computer Interface**
+- 🎵 On loop: *[Kana Yaari](https://youtu.be/zQDAi8tI-cU)*
+- 🧠 Currently researching in the domain of **Time Series Forecastin for Renewable Power** and **Brain-Computer Interface**
 - 💬 Tech that I'd love to discuss - **NLP, CV, E2E ASR, Product Development, Micro-SaaS and Algorithmic trading**
 - 🧶 I also love - **Football, Linkin Park, Puns and Agatha Christie**
 - 📫 Have a question? Reach me at **todarwal.devesh@gmail.com**
