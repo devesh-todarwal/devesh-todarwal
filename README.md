@@ -12,9 +12,9 @@ I'm currently working at [**Cobblestone Energy**](https://cobblestoneenergy.com/
 
 - 🌱 Currently learning **Meteorology (science)** and **RUST (programming language)**
 - 📚 Currently reading [*Gödel, Escher, Bach: an Eternal Golden Braid*](https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/)
-- 🎵 On loop: *[Kana Yaari](https://youtu.be/zQDAi8tI-cU)*
+- 🎵 On loop: *[Feeling Good](https://youtu.be/Edwsf-8F3sI?si=RDTqAwIMFD_L7ZXo)*
 - 🧠 Currently researching in the domain of **Time Series Forecastin for Renewable Power** and **Brain-Computer Interface**
-- 💬 Tech that I'd love to discuss - **NLP, CV, E2E ASR, Product Development, Micro-SaaS and Algorithmic trading**
+- 💬 Tech that I'd love to discuss - **Renewable Energy Forecasting, NLP, CV, E2E ASR, Product Development, Micro-SaaS and Algorithmic trading**
 - 🧶 I also love - **Football, Linkin Park, Puns and Agatha Christie**
 - 📫 Have a question? Reach me at **todarwal.devesh@gmail.com**
 ***
